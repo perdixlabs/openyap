@@ -1,4 +1,4 @@
-# OpenYap
+# [OpenYap](https://openyap.com)
 
 The best chat app. That is actually open.
 
